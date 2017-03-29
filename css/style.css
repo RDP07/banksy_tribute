@@ -76,6 +76,10 @@ footer {
     order: 2
   }
 
+  .jesus-img, .flower-img {
+    margin: 1em 0;
+  }
+
 }
 
 
