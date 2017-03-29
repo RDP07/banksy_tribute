@@ -1,6 +1,5 @@
-@font-face {
-src: url('css/Searfont.ttf');
-}
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
 .container-fluid {
   background-color: black;
 }
@@ -10,8 +9,9 @@ src: url('css/Searfont.ttf');
   width:auto;
 }
 
-.banksy{
-  font-family: "Searfont"
+.container {
+  font-family: 'Rock Salt', cursive;
+
 }
 .container {
   background: -webkit-linear-gradient(#310000, #780101);
@@ -52,6 +52,7 @@ span {
 footer {
   margin: 10px;
   color: white;
+  font-family: 'Rock Salt', cursive;
 }
 
 
