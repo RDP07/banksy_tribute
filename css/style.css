@@ -1,0 +1,33 @@
+
+div {
+  border: medium solid black;
+}
+
+.container section, .containter section div {
+  padding: 1%;
+  margin: auto;
+  
+}
+
+.bio {
+  padding: 0 10% 0 10%;
+}
+
+.jesus-img {
+  width: 100%;
+  height: auto; 
+  float: left;
+}
+
+.jesus, .flower {
+  align-items: center;
+  
+}
+
+.row {
+  display: flex;
+}
+
+
+
+
